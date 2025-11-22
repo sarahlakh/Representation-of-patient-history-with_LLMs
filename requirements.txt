@@ -1,0 +1,31 @@
+# TER - Requirements
+
+# Deep Learning
+torch
+torchvision
+tensorflow
+
+# Data Science
+numpy
+pandas
+scikit-learn
+
+#Explainability
+shap
+lime
+
+# MLOps Tools
+mlflow
+dvc
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+requests
+
+# Jupyter Notebooks
+jupyter
+ipywidgets
