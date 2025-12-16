@@ -4,6 +4,7 @@
 torch
 torchvision
 tensorflow
+transformer
 
 # Data Science
 numpy
